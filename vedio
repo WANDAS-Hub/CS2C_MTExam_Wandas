@@ -1,0 +1,5 @@
+<video width="320" height="240" controls>
+  <source src="c:\Users\HP\Downloads\Download.mp4" type="video/mp4">
+  <source src="c:\Users\HP\Downloads\Download (1).mp4" type="video/ogg">
+  <source src="c:\Users\HP\Downloads\Download (2).mp4" type="video/ogg">
+</video>
